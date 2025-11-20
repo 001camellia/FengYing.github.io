@@ -1,2 +1,4 @@
-校级一等奖学金 2023，2024,2025
-省政府奖学金 2024,2025
+## Awards and Honors
+
+- **Provincial Government Scholarship**: 2024, 2025
+- **University-Level First Prize Scholarship**: 2023, 2024, 2025
