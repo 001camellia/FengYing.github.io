@@ -3,7 +3,7 @@
 I'm currently pursuing a Bachelor's degree in Financial Technology (FinTech) at the Zhuoyue Honors College, Hangzhou Dianzi University, Hangzhou, China.
 
 #### Email
-<code>22342222@hdu.edu.cn</code>
+<code>22340103@hdu.edu.cn</code>
 
 #### Education
 **Hangzhou Dianzi University**, Bachelor of Financial Technology (2022 – 2026)
