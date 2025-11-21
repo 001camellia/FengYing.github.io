@@ -7,7 +7,7 @@ I'm currently pursuing a Bachelor's degree in Financial Technology (FinTech) at 
 
 #### Education
 **Hangzhou Dianzi University**, Bachelor of Financial Technology (2022 – 2026)
-• GPA: 3.89/5.00 
+• GPA: 3.9/5.00 
 
 #### Research Interests
 Computational Biology, Time Series Data Processing, Large Language Models (LLMs), AI in Healthcare.
